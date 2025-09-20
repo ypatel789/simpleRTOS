@@ -1,0 +1,8 @@
+/home/yoosufpatel/Documents/dev_code/build_rtos/cubeide/6_CooperativeScheduler/chip_headers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	2
+../Src/osKernel.c:35:6:osKernelStackInit	1
+../Src/osKernel.c:61:9:osKernelAddThreads	1
+../Src/osKernel.c:93:6:osKernelInit	1
+../Src/osKernel.c:98:6:osKernelLaunch	1
+../Src/osKernel.c:127:29:SysTick_Handler	1
+../Src/osKernel.c:165:6:osSchedulerLaunch	1
+../Src/osKernel.c:201:6:osThreadYield	1

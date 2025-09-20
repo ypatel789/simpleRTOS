@@ -1,0 +1,9 @@
+/home/yoosufpatel/Documents/dev_code/build_rtos/cubeide/7_PeriodicScheduler_v1/chip_headers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	2
+../Src/osKernel.c:39:6:osKernelStackInit	1
+../Src/osKernel.c:65:9:osKernelAddThreads	1
+../Src/osKernel.c:97:6:osKernelInit	1
+../Src/osKernel.c:102:6:osKernelLaunch	1
+../Src/osKernel.c:131:29:SysTick_Handler	1
+../Src/osKernel.c:171:6:osSchedulerLaunch	1
+../Src/osKernel.c:207:6:osThreadYield	1
+../Src/osKernel.c:217:6:osSchedulerRoundRobin	2

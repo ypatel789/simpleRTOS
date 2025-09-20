@@ -1,0 +1,7 @@
+/home/yoosufpatel/Documents/dev_code/build_rtos/cubeide/5_RoundRobinScheduler/chip_headers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	16	static
+../Src/osKernel.c:32:6:osKernelStackInit	16	static
+../Src/osKernel.c:58:9:osKernelAddThreads	24	static,ignoring_inline_asm
+../Src/osKernel.c:90:6:osKernelInit	4	static
+../Src/osKernel.c:95:6:osKernelLaunch	16	static
+../Src/osKernel.c:124:29:SysTick_Handler	0	static,ignoring_inline_asm
+../Src/osKernel.c:162:6:osSchedulerLaunch	4	static,ignoring_inline_asm

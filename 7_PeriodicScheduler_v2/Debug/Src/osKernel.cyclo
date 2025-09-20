@@ -1,0 +1,11 @@
+/home/yoosufpatel/Documents/dev_code/build_rtos/cubeide/7_PeriodicScheduler_v2/chip_headers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+/home/yoosufpatel/Documents/dev_code/build_rtos/cubeide/7_PeriodicScheduler_v2/chip_headers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	2
+../Src/osKernel.c:43:6:osKernelStackInit	1
+../Src/osKernel.c:69:9:osKernelAddThreads	1
+../Src/osKernel.c:101:6:osKernelInit	1
+../Src/osKernel.c:106:6:osKernelLaunch	1
+../Src/osKernel.c:135:29:SysTick_Handler	1
+../Src/osKernel.c:175:6:osSchedulerLaunch	1
+../Src/osKernel.c:211:6:osThreadYield	1
+../Src/osKernel.c:221:6:osSchedulerRoundRobin	2
+../Src/osKernel.c:233:6:tim2_1hz_interrupt_init	1
