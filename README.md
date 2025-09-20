@@ -18,7 +18,7 @@ To clone this repository, open your terminal and run:
 ```bash
 git clone https://github.com/ypatel789/simpleRTOS.git
 ```
-## Setting Up the Project
+### Setting Up the Project
 
 1. Navigate to the Project Directory
 
@@ -34,3 +34,25 @@ cd your_path/simpleRTOS
 3. Build the Project:
     - Click on the build icon after selecting the project you wish to build
     - Or go to `Project` -> `Build All`
+
+### Flashing the Firmware
+
+Connect your STM32 Microcontroller using the ST-Link programmer and flash the build firmware:
+
+1. In STM32CubeIDE, right click on the project you wish to flash on the microcontroller (e.g 8_PeriodicScheduler_v2)
+
+2. Select `Debug As` -> `1 STM32 Application C/C++`
+
+3. Select the `Run` icon (green play button)
+
+### Usage 
+
+Once deployed, the RTOS will manage tasks as per the defined scheduling algorithm. You can modify task parameters within the source code to experiment with different RTOS behavior.
+
+### Contributing 
+
+Feel free to submit issues or pull requests if you find bugs or have suggestions for enhancements.
+
+### License
+
+This project is licensed under the MIT License - see the file for details.
